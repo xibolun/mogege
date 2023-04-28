@@ -329,6 +329,8 @@ preserveTaxonomyNames = true
     enableGitalk = true                 # gitalk 评论系统
 
     google_verification = ""
+    
+    busuanzi = true # 不蒜子计数
 
     description = "" # (Meta) 描述
     keywords = "" # site keywords
